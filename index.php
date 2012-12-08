@@ -4,11 +4,11 @@ require_once('rest.php');
 /**
  * PHP Venture search example for VC4Africa RESTful API
  * @author Ebot Tabi <ebot.tabi@gmail.com>
- * @link https://dev.vc4africa.biz/
+ * @link https://developers.vc4africa.biz/
  */
 
 // Using VC4Africa API's
-$client = new Rest('http://api.frapi', 'digest', 'ebottabi', 'cd91007e366c4d0f1a2e82f0a099bb6711b526a4'); 
+$client = new Rest('http://api.vc4africa.biz', 'digest', 'ebottabi', 'cd91007e366c4d0f1a2e82f0a099bb6711b526a4'); 
 
 //A sample venture's id
  $venture_id="22";
