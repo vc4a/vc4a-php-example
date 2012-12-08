@@ -3,7 +3,7 @@
  * RESTful Client based on PHP CURL
  * 
  * @author      Ebot Tabi <ebot.tabi@gmail.com>
- * @link		https://github.com/vc4africa/restful_php_client.git
+ * @link		https://develoers.vc4africa.biz
  * @version 	1.0.0
  * @date		05.12.2012
  */
