@@ -4,7 +4,7 @@ require_once('rest.php');
 /**
  * PHP Venture search example for VC4Africa RESTful API
  * @author Ebot Tabi <ebot.tabi@gmail.com>
- * @link https://developers.vc4africa.biz/
+ * @link http://developers.vc4africa.biz/
  */
 
 // Using VC4Africa API's
